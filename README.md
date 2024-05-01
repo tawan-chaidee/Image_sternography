@@ -10,5 +10,5 @@ pip -r requirements.txt
 python main.py
 ```
 
-### Alternatively you try demo of our application using Link
+### Alternatively you try demo of our application using this link
 https://colab.research.google.com/github/tawan-chaidee/Image_sternography/blob/main/Image_sternography.ipynb
